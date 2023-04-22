@@ -1,0 +1,1 @@
+.\bun_extract_file.exe list-files "C:/games/ggpk/Content.ggpk" > file_list.log
